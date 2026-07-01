@@ -30,13 +30,13 @@ I am a **Junior Cloud Engineer & Solutions Architect** based in Karlsruhe, Germa
 ---
 
 ### Featured Projects (Production-Ready)
-* 🏢 **[Project 1: Zalando- High-Availability Infrastructure]** - Automated multi-AZ web infrastructure with Terraform featuring dynamic Auto Scaling and Application Load Balancing.
-* 🔒 **[Project 2: N26- Secure Database Migration]** - Zero-Trust architecture isolation for RDS database clusters using KMS encryption and strict Security Groups[cite: 1].
-* 🛠️ **[Project 3: Siemens- Server Hardening Pipeline]** - Automated Linux AMI creation using Packer and Bash provisioners integrated with security scanning.
+* **[Project 1: Zalando- High-Availability Infrastructure]** - Automated multi-AZ web infrastructure with Terraform featuring dynamic Auto Scaling and Application Load Balancing.
+* **[Project 2: N26- Secure Database Migration]** - Zero-Trust architecture isolation for RDS database clusters using KMS encryption and strict Security Groups[cite: 1].
+* **[Project 3: Siemens- Server Hardening Pipeline]** - Automated Linux AMI creation using Packer and Bash provisioners integrated with security scanning.
 
 ---
 
-### 🗣️ Languages
+### Languages
 * **Spanish:** Native
 * **English:** Fluent (Professional Working Proficiency)
 * **German:** Intermediate (B1)
